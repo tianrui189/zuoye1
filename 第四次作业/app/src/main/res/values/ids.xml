@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sw_status" type="id" />
+    <item name="sw_ios" type="id" />
+    <item name="tv_result" type="id" />
+    <item name="tv_ios_result" type="id" />
+</resources>
