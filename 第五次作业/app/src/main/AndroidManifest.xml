@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.tx">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="18990278-田蕊"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="MissingClass">
+
+        <activity
+            android:name="com.example.tx.ui.RegisterReadActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.tx.ui.RegisterWriteActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.tx.ui.LoginForgetActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.tx.ui.MainActivity"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
