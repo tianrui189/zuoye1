@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_password_first" type="id" />
+    <item name="et_password_second" type="id" />
+    <item name="et_verifycode" type="id" />
+    <item name="btn_verifycode" type="id" />
+    <item name="btn_confirm" type="id" />
+    <item name="sw_status" type="id" />
+    <item name="sw_ios" type="id" />
+    <item name="tv_result" type="id" />
+    <item name="tv_ios_result" type="id" />
+    <item name="et_name" type="id" />
+    <item name="et_age" type="id" />
+    <item name="et_height" type="id" />
+    <item name="et_weight" type="id" />
+    <item name="btn_save" type="id" />
+    <item name="sp_married" type="id" />
+    <item name="cl_info" type="id" />
+    <item name="tv_path" type="id" />
+    <item name="et_pwd" type="id" />
+    <item name="et_repwd" type="id" />
+    <item name="id_phone" type="id" />
+    <item name="id_password" type="id" />
+    <item name="btn_register" type="id" />
+</resources>
